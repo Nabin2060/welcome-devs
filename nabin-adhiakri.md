@@ -1,3 +1,3 @@
 # Introduction
 
-Hi, I am nabin adhikari. I am a full stack developer.
+Hi, I am nabin Adhikari. I am a full stack developer.
